@@ -1,5 +1,7 @@
 # jake
-jake
+
+### 项目建立
+----
     git clone xxx.git //克隆项目
     composer update   //更新依赖
     cp .env.example .env //生成配置文件
